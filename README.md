@@ -3,4 +3,4 @@ My Resume
 
 My one page resume in latex
 
-[Latest PDF](main-pub.pdf)
+[Latest PDF](resume_latest.pdf)
